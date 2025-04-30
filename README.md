@@ -88,7 +88,7 @@ plt.subplot(122);plt.imshow(faceWithGlassesArithmetic[:,:,::-1]);plt.title("With
 
 ## Glass image
 
- ![image](https://github.com/user-attachments/assets/bce97f67-e8d0-47f0-aa64-dbd9075819d5)
+ ![image](https://github.com/user-attachments/assets/aa22ff92-75df-44b8-a3b1-26f8d122d76f)
 
 ## Appliying BGR
 
